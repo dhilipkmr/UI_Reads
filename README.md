@@ -25,6 +25,9 @@ Best Reads, stories, good to haves I have witnessed towards FrontEnd Development
  
  - [UI Read](https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823)
  
+ - [Alternative way to redux](
+https://itnext.io/reducer-organization-taking-a-step-further-4aba7af755d6)
+ 
  
   =====================================================================================
   
